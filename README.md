@@ -18,10 +18,10 @@ diatas ini adalah tampilan dari laman beranda.
 
 Untuk menggunakan aplikasi cukup mudah, cukup ganti laman yang telah disediakan pada navigation menu untuk menuju ke skema 1 berdasarkan keyword dan beberapa data pilihan user, dan skema 2 yang merekomendasikan berdasarkan restoran preferensi user.
 
-<img src="skema1.png" align="center">
+<img src="skema1.jpg" align="center">
 diatas ini adalah tampilan dari laman skema 1
 
-<img src="skema2.png" align="center">
+<img src="skema2.jpg" align="center">
 diatas ini adalah tampilan dari laman skema 2
 
 ## Contributor
