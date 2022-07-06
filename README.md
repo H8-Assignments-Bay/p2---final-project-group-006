@@ -1,7 +1,10 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8071333&assignment_repo_type=AssignmentRepo)
 
 # MakanKuy!
-<img src="MakanKuy!.png" width=200 align="center">
+<p align="center">
+  <img src="MakanKuy!.png" width=300 align="center">
+</p>
+
 
 **Makankuy!** adalah sebuah aplikasi pemesanan tempat makan terdekat, yang dapat memberikan rekomendasi berdasarkan suasana yang diinginkan oleh customer serta preferensi tempat makan yang telah diketahui customer.
 
@@ -13,16 +16,38 @@ MakanKuy hadir untuk mengatasi user yang bingung mencari tempat makan dan khawat
 
 ## Cara Menggunakan Aplikasi
 
-<img src="beranda.png" align="center">
-diatas ini adalah tampilan dari laman beranda.
+<p align="center">
+  <img src="beranda.jpg" width=700 align="center">
+  
+</p>
+
+<p align="center">
+  Tampilan dari laman beranda
+</p>
+
+---
 
 Untuk menggunakan aplikasi cukup mudah, cukup ganti laman yang telah disediakan pada navigation menu untuk menuju ke skema 1 berdasarkan keyword dan beberapa data pilihan user, dan skema 2 yang merekomendasikan berdasarkan restoran preferensi user.
 
-<img src="skema1.jpg" align="center">
-diatas ini adalah tampilan dari laman skema 1
+<p align="center">
+  <img src="skema1.jpg" width=700 align="center">
+  
+</p>
 
-<img src="skema2.jpg" align="center">
-diatas ini adalah tampilan dari laman skema 2
+<p align="center">
+  Tampilan dari laman skema 1
+</p>
+
+---
+<p align="center">
+  <img src="skema2.jpg" width=700 align="center">
+  
+</p>
+
+<p align="center">
+  Tampilan dari laman skema 2
+</p>
+
 
 ## Contributor
 1. [Andreean Dharma Arisandi](https://github.com/Andreean99)
